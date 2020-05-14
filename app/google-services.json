@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037991102019",
+    "firebase_url": "https://linguagens-app.firebaseio.com",
+    "project_id": "linguagens-app",
+    "storage_bucket": "linguagens-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037991102019:android:da3e4de7373c64c30176f6",
+        "android_client_info": {
+          "package_name": "com.example.linguagensapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037991102019-q1h1t8en3nvj7frh7p5838vkdg0uh5gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhigBsV8wY7bwzUe1cWs3yp74fUgrUqL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037991102019-q1h1t8en3nvj7frh7p5838vkdg0uh5gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
